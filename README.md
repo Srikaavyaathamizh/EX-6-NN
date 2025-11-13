@@ -1,7 +1,7 @@
 <H3>NAME: SRIKAAVYAA T</H3>
 <H3>REGISTER NO.:21222320214</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3>
+<H3>DATE: 12/11/2025</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
